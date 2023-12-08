@@ -1,0 +1,1 @@
+An introductory tutorial on kernel methods and kernels on graphs (e.g. molecular data). This assumes that you have python and can run a jupyter notebook, the rest of the requirements can be installed by executing the requirements.sh script included here.
